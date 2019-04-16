@@ -1,0 +1,1 @@
+[C语言链接属性与extern、static关键字.md](https://github.com/Eh9/Dairy/blob/master/C%E8%AF%AD%E8%A8%80%E9%93%BE%E6%8E%A5%E5%B1%9E%E6%80%A7%E4%B8%8Eextern%E3%80%81static%E5%85%B3%E9%94%AE%E5%AD%97.md)  

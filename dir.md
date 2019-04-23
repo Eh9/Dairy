@@ -2,3 +2,4 @@
 2019-04-18 [系统调用为什么耗时](https://github.com/Eh9/Dairy/blob/master/LINUX%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8%E8%80%97%E6%97%B6.md)  
 2019-04-18 [C++位操作](https://github.com/Eh9/Dairy/blob/master/c%2B%2B%E4%BD%8D%E6%93%8D%E4%BD%9C.md)  
 2019-04-19 [C++多态](https://github.com/Eh9/Dairy/blob/master/C%2B%2B%E5%A4%9A%E6%80%81.md)  
+2019-04-23 [宏和inline解析](https://github.com/Eh9/Dairy/blob/master/%E5%AE%8F%E5%92%8Cinline%E8%A7%A3%E6%9E%90.md)
